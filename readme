@@ -1,0 +1,8 @@
+These scripts originally come from https://github.com/JeffersonLab/PRadSim/tree/master/evgen/newep
+I modified the input and output style to make it easier for me to get the numbers
+#newep is the origin directories
+#newep_born is the born elastic cross section using Ventat2011 
+#newep_rc is the xs after RC using Ventat2011
+#sys is the directories using different models. 
+To run it, first setup enviroment on duke machine env_PRad.sh. Then make. Then modify the run_newep.sh to run multiple lines. 
+

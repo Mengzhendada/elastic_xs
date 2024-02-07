@@ -1,0 +1,64 @@
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000, 8.00000000, 9.00000000, 0.10000000,1800.00000000, 0.01620891, 0.01526134,4042.53307122
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000, 9.00000000,10.00000000, 0.10000000,1800.00000000, 0.01809927, 0.00563279,9808.79799287
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000,10.00000000,11.00000000, 0.10000000,1800.00000000, 0.01998411, 0.00226401,22102.28472803
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000,11.00000000,12.00000000, 0.10000000,1800.00000000, 0.02186286, 0.00097998,46674.08671157
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000,12.00000000,13.00000000, 0.10000000,1800.00000000, 0.02373496, 0.00045225,93160.49426888
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000,13.00000000,14.00000000, 0.10000000,1800.00000000, 0.02559982, 0.00022092,176820.79128142
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000,14.00000000,15.00000000, 0.10000000,1800.00000000, 0.02745689, 0.00011358,320658.52833044
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000,15.00000000,16.00000000, 0.10000000,1800.00000000, 0.02930560, 0.00006118,557745.37587807
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000,16.00000000,17.00000000, 0.10000000,1800.00000000, 0.03114537, 0.00003440,933328.34840563
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000,17.00000000,18.00000000, 0.10000000,1800.00000000, 0.03297566, 0.00002012,1507597.62047913
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000,18.00000000,19.00000000, 0.10000000,1800.00000000, 0.03479591, 0.00001220,2356425.23811574
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000,19.00000000,20.00000000, 0.10000000,1800.00000000, 0.03660555, 0.00000764,3574945.89763042
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000,20.00000000,21.00000000, 0.10000000,1800.00000000, 0.03840405, 0.00000494,5274202.65303868
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000,21.00000000,22.00000000, 0.10000000,1800.00000000, 0.04019085, 0.00000328,7584882.27331889
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000,22.00000000,23.00000000, 0.10000000,1800.00000000, 0.04196540, 0.00000224,10659162.08960560
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+11000.00000,23.00000000,24.00000000, 0.10000000,1800.00000000, 0.04372717, 0.00000156,14656668.50624171
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000, 8.00000000, 9.00000000, 0.10000000,1800.00000000, 0.01620891, 0.06890189,895.39581741
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000, 9.00000000,10.00000000, 0.10000000,1800.00000000, 0.01809927, 0.02739124,2017.09983967
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000,10.00000000,11.00000000, 0.10000000,1800.00000000, 0.01998411, 0.01164504,4297.08813422
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000,11.00000000,12.00000000, 0.10000000,1800.00000000, 0.02186286, 0.00526714,8683.96963942
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000,12.00000000,13.00000000, 0.10000000,1800.00000000, 0.02373496, 0.00252255,16702.13479156
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000,13.00000000,14.00000000, 0.10000000,1800.00000000, 0.02559982, 0.00127272,30692.26898288
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000,14.00000000,15.00000000, 0.10000000,1800.00000000, 0.02745689, 0.00067260,54148.99326928
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000,15.00000000,16.00000000, 0.10000000,1800.00000000, 0.02930560, 0.00037057,92082.21555917
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000,16.00000000,17.00000000, 0.10000000,1800.00000000, 0.03114537, 0.00021203,151431.91452308
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000,17.00000000,18.00000000, 0.10000000,1800.00000000, 0.03297566, 0.00012556,241519.00558688
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000,18.00000000,19.00000000, 0.10000000,1800.00000000, 0.03479591, 0.00007673,374534.61554954
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000,19.00000000,20.00000000, 0.10000000,1800.00000000, 0.03660555, 0.00004830,565626.15230361
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000,20.00000000,21.00000000, 0.10000000,1800.00000000, 0.03840405, 0.00003124,833454.31960970
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000,21.00000000,22.00000000, 0.10000000,1800.00000000, 0.04019085, 0.00002072,1200888.17490311
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000,22.00000000,23.00000000, 0.10000000,1800.00000000, 0.04196540, 0.00001407,1693722.26127192
+Eb_MeV,theta_min_deg,theta_max_deg,E_photon_min_MeV,E_photon_max_MeV,angle_ster,xs_mubperstr,lum_invmub
+ 8800.00000,23.00000000,24.00000000, 0.10000000,1800.00000000, 0.04372717, 0.00000976,2342502.13245464
